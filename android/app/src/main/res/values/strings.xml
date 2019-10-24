@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Toptal Chat</string>
+    <string name="facebook_app_id">452376148717499</string>
+    <string name="fb_login_protocol_scheme">fb452376148717499</string>
 </resources>
